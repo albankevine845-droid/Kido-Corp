@@ -1,20 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🎨 Galería Kido
 
-# Run and deploy your AI Studio app
+Portafolio visual de **Kido Corp** con estética *Liquid Glass*, destacando divisiones de arte narrativo, diseño de identidad, inteligencia de negocios y logística.
 
-This contains everything you need to run your app locally.
+## 🚀 Características
 
-View your app in AI Studio: https://ai.studio/apps/130b9719-6c2b-4ca0-89b7-0e489ec7808c
+- ✨ Diseño moderno con estética Liquid Glass
+- 🎯 Muestra de portafolio visual interactivo
+- 📱 Totalmente responsivo
+- ⚡ Construido con React + TypeScript + Vite
+- 🎨 Estilizado con Tailwind CSS
+- 🎭 Animaciones suaves con Framer Motion
 
-## Run Locally
+## 📋 Requisitos Previos
 
-**Prerequisites:**  Node.js
+- **Node.js** (versión 18 o superior)
+- **npm** o **yarn**
 
+## 🛠️ Instalación
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. **Clona el repositorio:**
+```bash
+git clone https://github.com/albankevine845-droid/Galeria-Kido.git
+cd Galeria-Kido
